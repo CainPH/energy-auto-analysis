@@ -57,3 +57,12 @@ Create 2-3 key visualizations
 Write policy implications
 
 This demonstrates the same skills without requiring extensive industry data that might be hard to access.
+
+Yes - it demonstrates:
+
+Understanding of tech infrastructure impacts
+Basic data analysis skills
+Policy implications
+Real-world business case
+
+Keep scope focused (2-3 facilities, clear metrics) and document well. Strong addition for tech policy/operations roles.
