@@ -47,3 +47,13 @@ Load profiles (15-min intervals)
 Power density (kW/rack)
 Utility infrastructure upgrades
 Grid stability events
+
+Feasible version:
+
+Compare 2-3 facilities only
+Focus on basic load patterns
+Use publicly available utility data
+Create 2-3 key visualizations
+Write policy implications
+
+This demonstrates the same skills without requiring extensive industry data that might be hard to access.
